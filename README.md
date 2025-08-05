@@ -1,3 +1,3 @@
 # flutter_application_desafio_perfil
 
-A new Flutter project.
+Projeto Flutter de página de Perfil para atividade do SENAI
