@@ -54,7 +54,7 @@ class PerfilPage extends StatelessWidget {
             // Função
             Center(
               child: Text(
-                'Desenvolvedor Flutter',
+                'Estudante',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
